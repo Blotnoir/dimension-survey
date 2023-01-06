@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(234, 236, 231);
+    margin: auto;
+    max-width: 500px;
+    white-space: nowrap;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-blend-mode:color;
+}
+
+.input-checkbox3 {
+    flex-wrap: wrap;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+.submit-button {
+    cursor: pointer;
+}
+
+.text-details {
+    color: red;
+}
+
+.text-head {
+    text-decoration: underline;
+    font-size: 2.5rem;
+    text-shadow: 1px 1px 1px rgb(0, 255, 123);
+}
+
+#name {
+    margin-bottom: 15px;
+}
+
+#email {
+    margin-bottom: 15px;
+}
+
+#neural {
+    margin-bottom: 15px;
+}
+
+#statement {
+    margin-top: 65px;
+}
